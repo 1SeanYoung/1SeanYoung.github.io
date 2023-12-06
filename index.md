@@ -13,7 +13,7 @@ My GitHub page is http://github.com/1SeanYoung.
     Lab 3, part 2 taught me how to use functions, and have the values received
     from std::cin imputed into the function. This was one of the first times
     that I was able to put what I learned in use, and that made it memorable.
-    I also found it fun to use the std::cout and std::cin.
+    I also found it fun to use the std::cout and std::cin
 
 * Lab 6
 
