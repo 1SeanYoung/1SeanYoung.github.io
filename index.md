@@ -16,10 +16,12 @@ My GitHub page is http://github.com/1SeanYoung.
     I also found it fun to use the std::cout and std::cin.
 
 * Lab 6
+
     Lab 6, part 2 taught us how to code blackjack. We coded on another file and
     included it in the main, which was pretty cool. It was also satisfying
     because that was the first card game that I had coded, and it was fun to
     code based on the rules of the game.
 
 * Lab 7
+
     Lab 7, part 2 taught us to code parkings. We coded when a car would be allowed to park on a specific street. It was fun because I was able to code based on street signs, and that was interesting.
